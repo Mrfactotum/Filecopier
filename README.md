@@ -1,4 +1,4 @@
-#Readme for Filecopier.py
+README for Filecopier.py
 
 Summary:
 
@@ -40,3 +40,5 @@ Run the program
 LICENSING:
 This program is distrubted with an MIT License the full text of which can
 be found under the License document.
+
+December 2017
