@@ -1,24 +1,27 @@
 #Readme for Filecopier.py
 
 Summary:
+
 File copier is a small program written in Python 3 which allows you 
 to transfer certain file extensions from a tree of folder and 
 subdirectories to a destination folder.
 
 Dependencies:
-Filecopier uses modules that come with Python 3.
-Libraries used include:
+
+Filecopier uses the following modules that come with Python 3:
 os
 shutil
 
 What can I use it for? 
+
 Imagine you have hundreds of excel files mixed in with word documents,
-photos and other files. This porgram allows you to search through a
-directory tree and pull out all the files ending with a certain file name.
+photos and other files nested in many folders. This porgram allows you
+to search through a directory tree and pull out all the files ending 
+with a certain file name.
 
 
 
-Example: Code
+Usage Example:
 Open filecopier in a text editor
 Edit the following lines:
 
@@ -36,4 +39,4 @@ Run the program
 
 LICENSING:
 This program is distrubted with an MIT License the full text of which can
-be found under the github repository.
+be found under the License document.

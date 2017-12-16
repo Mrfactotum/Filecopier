@@ -1,13 +1,13 @@
 #Copy files with a certain ending from inside a tree of folders to another
-#destination
+#destination.
 
 import shutil
 import os
 
-#replace "(/temporary/") with the parent folder you want to copy from.
+#replace "(/source-directory/") with the parent folder you want to copy from.
 source_directory = ("source-directory")
 
-#replace "your destination"  with the path to your destination
+#replace "destination-directory"  with the path to your destination
 destination_directory = ("destination-directory")
 
 def copyFiles():
